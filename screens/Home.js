@@ -1,14 +1,5 @@
 import React from 'react';
-import {
-  SafeAreaView,
-  View,
-  Text,
-  StyleSheet,
-  TouchableOpacity,
-  Image,
-  FlatList,
-} from 'react-native';
-
+import {SafeAreaView,View,Text,StyleSheet,TouchableOpacity,Image,FlatList,} from 'react-native';
 import {icons, images, SIZES, COLORS, FONTS} from '../constants';
 
 const Home = ({navigation}) => {
@@ -96,7 +87,7 @@ const Home = ({navigation}) => {
       menu: [
         {
           menuId: 1,
-          name: 'Crispy Chicken Burger',
+          name: 'Turkish Chicken Burger',
           photo: images.crispy_chicken_burger,
           description: 'Burger with crispy chicken, cheese and lettuce',
           calories: 200,
