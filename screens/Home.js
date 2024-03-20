@@ -339,6 +339,7 @@ const Home = ({navigation}) => {
     return (
       <View style={{flexDirection: 'row', height: 50}}>
         <TouchableOpacity
+        onPress={() => navigation.navigate('GMap')}
           style={{
             width: 50,
             justifyContent: 'center',

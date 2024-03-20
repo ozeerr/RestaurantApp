@@ -7,7 +7,6 @@ import {COLORS, FONTS, icons, SIZES, GOOGLE_API_KEY} from '../constants';
 
 const OrderDelivery = ({route, navigation}) => {
   const mapView = useRef();
-
   const [restaurant, setRestaurant] = useState(null);
   const [streetName, setStreetName] = useState('');
   const [fromLocation, setFromLocation] = useState(null);
