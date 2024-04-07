@@ -49,7 +49,7 @@ This app is built with the help of the following 3rd party libraries:
   <video src="https://github.com/ozeerr/RestaurantApp/assets/137641188/d9d5436c-026c-4b5c-b9f3-572bd4efa3a6" width="50%"/>
 </div>
 
-## Contact Us
+## Contact Me
 
 If you have any questions, encounter issues, or want to provide feedback, please feel free to reach out to me via email at<br>
 [efe.aeo@gmail.com](mailto:efe.aeo@gmail.com)<br>
